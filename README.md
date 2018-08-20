@@ -15,7 +15,7 @@ Copy a floppy/hard drive from one computer to another via a serial null modem co
      *   uses this code must have written permission from the author.
      *
      *  For more information:
-     *    http://www.fysnet.net/blog/2018/08/index.htm#20aug2018
+     *    http://www.fysnet.net/blog/2018/08/index.html#20aug2018
      *  Contact:
      *    fys [at] fysnet [dot] net
      *
