@@ -1,0 +1,9 @@
+-dosh -o mcopyata.exe -I .
+
+mcopyata.c
+
+crc.c
+disk.c
+mserial.c
+portio.c
+sys.c
